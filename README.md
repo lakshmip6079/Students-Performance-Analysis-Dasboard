@@ -9,12 +9,10 @@ Key Insights
 Insight 1
 A large percentage of students contribute to Failing grades.
 Insight 2
-Maths has the highest average score among all subjects.
-Insight 3
 Most students are concentrated in High academic support.
-Insight 4
+Insight 3
 Fail count is more Maths subject
+Insight 4
+More students need academic support, indicating limited academic excellence.
 Insight 5
-A smaller percentage of students achieve A-grade performance, indicating limited academic excellence.
-Insight 6
 Pass percentage provides an overall indicator of school academic performance.
